@@ -1,0 +1,40 @@
+#content{
+    text-align: center;
+    padding-top: 25%;
+}
+hr{
+    width:400px;
+    border-top: 1px solid #f8f8f8;
+}
+
+i.icon{
+    font-size: 2em;
+}
+.container.main{
+    margin-top: 7.0em;
+}
+#delete{
+    display:inline;
+}
+ #grasp{
+    margin-top: 19.0px;
+    padding-top: 50px;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+} 
+#commentform{
+    margin-top: 100px;;
+}
+#delete-form{
+    display: inline;
+}
+.pic{
+    text-align: center;
+}
+.thumb{
+    position: right;
+}
+span.psw {
+    float: right;
+    padding-top: 16px;
+  }
+  
